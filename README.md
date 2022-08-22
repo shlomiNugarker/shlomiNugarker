@@ -6,6 +6,7 @@
 - 🌱 I continue to learn and develop my skills in **Vue.js and React.**
 
 - 📫 You can reach me in **shlomin1231@gmail.com**
+- My portfolio: <a> https://shlominugarker.github.io/My-Portfolio/ <a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
