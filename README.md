@@ -6,7 +6,7 @@
 - 🌱 I continue to learn and develop my skills in **React, and TypeScript.**
 
 - 📫 You can reach me in **shlomin1231@gmail.com**
-- My portfolio: <a> https://shlominugarker.github.io/My-Portfolio/ <a/>
+- My portfolio: <a> [https://shlominugarker.github.io/My-Portfolio/](https://shlomi-nugarker-portfolio.vercel.app/) <a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
