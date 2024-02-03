@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I continue to learn and develop my skills in **React, TypeScript, algorithms and data structures.**
+- 🌱 I continue to learn and develop my skills.
 
 - 📫 You can reach me in **shlomin1231@gmail.com**
 - My portfolio: <a>https://shlomi-nugarker-portfolio.vercel.app/ <a/>
