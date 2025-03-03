@@ -6,7 +6,7 @@
 - 🌱 I continue to learn and develop my skills.
 
 - 📫 You can reach me in **shlomin1231@gmail.com**
-- My portfolio: <a>[https://shlomi-nugarker.vercel.app/](https://shlomi-nugarker.vercel.app/) <a/>
+- My portfolio: <a>https://www.shlomi.dev/<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
