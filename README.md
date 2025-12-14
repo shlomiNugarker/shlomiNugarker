@@ -1,61 +1,48 @@
-<h1 align="center">👋 Hi, I'm Shlomi!</h1>
+<div align="center">
 
-<h3 align="center">🚀 Frontend & Full Stack Developer Ready for New Adventures 🚀</h3>
+# Shlomi Nugarker
+### Frontend Engineer
+**React • TypeScript • Next.js**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200">
-</p>
+I build scalable, high-performance user interfaces with a strong focus on clean architecture, maintainable code, and pixel-perfect UX.
 
----
+[Portfolio](https://shlomi.dev) • [GitHub](https://github.com/shlomiNugarker) • [Email](mailto:shlomin1231@gmail.com)
 
-### 🌟 Who Am I?
-
-I'm a passionate developer who thrives on turning innovative ideas into beautifully functional digital experiences. Specializing in React, Next.js, and modern JavaScript/TypeScript stacks, I am continually exploring cutting-edge technologies and best practices.
-
-* 🔥 **Currently Exploring:** Advanced React Patterns, Next.js Features, TypeScript Enhancements
-* 📚 **Continuous Learner:** Always up-to-date with industry trends and developments
-* 💼 **Seeking:** Collaborative Teams, Exciting Projects, Growth Opportunities
+</div>
 
 ---
 
-### 📫 Reach Out
+## 🎯 Focus
 
-Email me at: 📧 [shlomin1231@gmail.com](mailto:shlomin1231@gmail.com)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shlomi-nugarker-b89777155/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.shlomi.dev/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+- ⚛️ **Modern React & Next.js applications**
+- 🏗️ **Component-driven architecture**
+- ⚡ **Performance-conscious UI development**
+- 📘 **Clean, readable, and scalable TypeScript code**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,postgres,mongodb,tailwind" alt="Tech Stack" />
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shlominugarker&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlominugarker&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 💬 Let's Collaborate!
-
-I'm always excited to connect, collaborate, and create something amazing together. Feel free to reach out anytime!
-
-🎯 **Let's build something incredible!**
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-**Happy Coding! 🚀✨**
+## 🚀 Experience Highlights
+
+* **Production Systems:** Built and maintained frontend systems used by real users.
+* **Complex UI:** Implemented features like dialogs, carousels, and drag & drop interactions.
+* **Performance:** Optimized rendering performance and Core Web Vitals.
+* **Pixel Perfect:** Translated Figma designs into accurate, responsive interfaces.
+
+---
