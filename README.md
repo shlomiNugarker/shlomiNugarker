@@ -15,7 +15,7 @@ AI-written code tends to break.
 
 *Client names withheld — I don't publish client names without permission.*
 
-- **High-traffic SSR marketplace** *(Netherlands)* — found and eliminated a
+- **High-traffic SSR marketplace** — found and eliminated a
   memory leak that had been crashing production, stabilized SSR under real
   traffic, and led a zero-downtime backend migration.
 - **LegalTech platform** *(70+ PostgreSQL tables)* — built most of the frontend,
