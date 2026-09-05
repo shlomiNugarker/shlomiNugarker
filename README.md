@@ -21,6 +21,7 @@ AI-written code tends to break.
 - **LegalTech platform** *(70+ PostgreSQL tables)* — built most of the frontend,
   including reusable data tables for complex legal records and a
   high-performance AI chat interface.
+- **Corporate-wellness marketing site** - bilingual Hebrew/English with full RTL, Markdown-driven content so the team updates pages without a developer.
 
 ### 🧪 Built by me
 
@@ -28,7 +29,6 @@ AI-written code tends to break.
   Next.js app · [Live](https://makeble.vercel.app)
 - **Wanderly** — social network for travelers: maps, AI itineraries, real-time
   feed · [Live](https://wanderly-seven.vercel.app)
-- **Roga Events** — bilingual RTL corporate-wellness site · [Live](https://www.rogaevents.com)
 - **Booking & payments platform** *(demo, not client work)* - real-time availability with auto-expiring holds, Stripe payments, Airtable as the ops backend, installable PWA
 
 ### 🛠 Tech
