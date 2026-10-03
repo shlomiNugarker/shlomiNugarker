@@ -17,7 +17,7 @@ AI-written code tends to break.
 
 - **High-traffic SSR marketplace** — found and eliminated a
   memory leak that had been crashing production, stabilized SSR under real
-  traffic, and led a zero-downtime backend migration.
+  traffic, and migrated the frontend.
 - **LegalTech platform** *(70+ PostgreSQL tables)* — built most of the frontend,
   including reusable data tables for complex legal records and a
   high-performance AI chat interface.
