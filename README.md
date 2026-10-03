@@ -44,4 +44,4 @@ AI-written code tends to break.
 Next.js development.
 Overlapping hours with EU and US East Coast.
 
-📋 [Production Health Audit — $750, delivered in 5 days →](https://www.shlomi.dev/audit)
+📋 [Production Health Audit — from $750, report within two weeks →](https://www.shlomi.dev/audit)
