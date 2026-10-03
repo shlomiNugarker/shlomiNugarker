@@ -27,9 +27,6 @@ AI-written code tends to break.
 
 - **Makeble** — AI platform that turns a prompt into a generated, deployed
   Next.js app · [Live](https://makeble.vercel.app)
-- **Wanderly** — social network for travelers: maps, AI itineraries, real-time
-  feed · [Live](https://wanderly-seven.vercel.app)
-- **Booking & payments platform** *(demo, not client work)* - real-time availability with auto-expiring holds, Stripe payments, Airtable as the ops backend, installable PWA
 
 ### 🛠 Tech
 
